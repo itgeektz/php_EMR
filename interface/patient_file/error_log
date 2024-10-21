@@ -1,0 +1,10 @@
+[16-Jan-2017 11:32:02 Africa/Dar_es_Salaam] PHP Strict Standards:  Only variables should be passed by reference in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 312
+[16-Jan-2017 11:32:02 Africa/Dar_es_Salaam] PHP Fatal error:  Class 'ZipArchive' not found in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 341
+[10-Feb-2017 10:54:41 Africa/Dar_es_Salaam] PHP Strict Standards:  Only variables should be passed by reference in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 312
+[10-Feb-2017 10:54:41 Africa/Dar_es_Salaam] PHP Fatal error:  Class 'ZipArchive' not found in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 341
+[10-Feb-2017 10:55:15 Africa/Dar_es_Salaam] PHP Strict Standards:  Only variables should be passed by reference in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 312
+[10-Feb-2017 10:55:15 Africa/Dar_es_Salaam] PHP Fatal error:  Class 'ZipArchive' not found in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 341
+[10-Feb-2017 10:55:47 Africa/Dar_es_Salaam] PHP Strict Standards:  Only variables should be passed by reference in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 312
+[10-Feb-2017 10:55:47 Africa/Dar_es_Salaam] PHP Fatal error:  Class 'ZipArchive' not found in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 341
+[15-Feb-2017 15:43:10 Africa/Dar_es_Salaam] PHP Strict Standards:  Only variables should be passed by reference in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 312
+[15-Feb-2017 15:43:10 Africa/Dar_es_Salaam] PHP Fatal error:  Class 'ZipArchive' not found in /home/emrdudu/public_html/openemr/interface/patient_file/download_template.php on line 341

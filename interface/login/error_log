@@ -1,0 +1,4 @@
+[06-Jan-2017 12:51:25 Africa/Dar_es_Salaam] PHP Warning:  mysqli_real_connect(): (28000/1045): Access denied for user 'openemr'@'localhost' (using password: YES) in /home/emrdudu/public_html/openemr/library/adodb/drivers/adodb-mysqli.inc.php on line 123
+[06-Jan-2017 12:51:25 Africa/Dar_es_Salaam] PHP custom error: from openemr library/sql.inc  - Unable to set up UTF8 encoding with mysql database: Access denied for user 'openemr'@'localhost' (using password: YES)
+[06-Jan-2017 12:51:25 Africa/Dar_es_Salaam] Unable to set strict sql setting: Access denied for user 'openemr'@'localhost' (using password: YES)
+[06-Jan-2017 12:51:25 Africa/Dar_es_Salaam] PHP Fatal error:  Call to undefined function text() in /home/emrdudu/public_html/openemr/library/sql.inc on line 499
